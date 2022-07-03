@@ -1,0 +1,114 @@
+.conInfo {
+    box-sizing: border-box;
+}
+.colInfo {
+    max-width: 1156px;
+    width: 100%;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+.mainInfo {
+    padding-top: 7.5rem;
+    padding-bottom: 12rem;
+    box-sizing: border-box;
+}
+.infoSecA {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+}
+.infoSecA h2 {
+    max-width: 42rem;
+    text-align: center;
+    margin-bottom: 4rem;
+    font-weight: 500;
+    line-height: 48px;
+    font-style: 32px;
+    padding: 0;
+}
+.infoSecB {
+    box-sizing: border-box;
+}
+.secB {
+    flex-wrap: wrap;
+    margin-right: calc(-16px/2);
+    margin-left: calc(-16px/2);
+    display: flex;
+    box-sizing: border-box;
+}
+.secLt {
+    margin-left: 16.666666666666668%;
+    max-width: 33.333333333333336%;
+    flex: 0 1 33.333333333333336%;
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-right: calc(16px/2);
+    padding-left: calc(16px/2);
+    box-sizing: border-box;
+}
+.ltInfo {
+    margin-bottom: 0;
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid #F7F8F9;
+    box-shadow: 0 0 1px 0 rgb(8 11 14 / 6%), 0 16px 16px -1px rgb(8 11 14 / 10%);
+    box-sizing: border-box;
+}
+.ltInfo img {
+    margin-bottom: 1rem;
+    width: auto;
+    height: 2.5rem;
+}
+.InfoP {
+    line-height: 40px;
+    font-size: 26px;
+    font-weight: 500;
+    padding: 0;
+    margin-bottom: 0.5rem;
+}
+.InfoP2 {
+    margin-bottom: 1.5rem;
+    line-height: 30px;
+    font-size: 17px;
+    color: #505256;
+    padding-right: 1rem;
+}
+.ltInfo a {
+    font-size: 14px;
+    line-height: 24px;
+    color: #0284FE;
+    margin: 0;
+    text-decoration: none;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 0;
+    align-items: center;
+    display: flex;
+}
+.ltInfo a:hover {
+    color: #006ed5;
+}
+.InfoAsvg {
+    min-height: 16px;
+    min-width: 16px;
+    width: 16px;
+    height: 16px;
+    margin-left: 1rem;
+    box-sizing: border-box;
+}
+.secRt {
+    margin-left: 0;
+    position: relative;
+}
+.rtInfo {
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid #F7F8F9;
+    box-shadow: 0 0 1px 0 rgb(8 11 14 / 6%), 0 16px 16px -1px rgb(8 11 14 / 10%);
+    background: #FFFFFF;
+    box-sizing: border-box;    
+}

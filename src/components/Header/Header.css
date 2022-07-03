@@ -1,0 +1,53 @@
+.header {
+    margin-left: 3%;
+    margin-right: 2%;
+    margin-top: 3px;
+    padding: 0%;
+}
+.main {
+    margin-top: 12px;
+    margin-bottom: 16px;
+}
+.svgLogo {
+    margin-left: 24px;
+}
+.ulMl {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.ulLi {
+    margin-left: 28px;
+    font-weight: 600;
+}
+.lia {
+    font-size: 14px;
+    margin: 0%;
+    line-height: 24px;
+    align-content: center;
+}
+.lia:hover {
+    color: #000000 !important;
+}
+.doc {
+    margin-right: 24px;
+    border-radius: 9px;
+    width: 137px;
+    text-align: center;
+    justify-content: center;
+    background-color: #f1f2f4;
+    color: #505256;
+    font-weight: 600;
+}
+.doc:hover {
+    background-color: #eaeaea !important;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+    border-radius: 0%;
+}
+.nav-link {
+    color: #505256 !important;
+}

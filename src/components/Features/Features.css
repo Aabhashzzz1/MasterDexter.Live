@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#features {
+    margin-left: 10%;
+    margin-right: 10%;
+  padding-top: 8rem;
+  box-sizing: border-box;
+}
+.contain {
+  width: 100%;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+}
+.kFea {
+  height: 2rem;
+  display: inline-flex;
+  line-height: 20px;
+  font-size: 12px;
+  border-radius: 1000rem;
+  text-align: center;
+  background: #000000;
+  font-weight: 500;
+  color: #ffffff;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-bottom: 2rem;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.containP {
+    margin-bottom: 1rem;
+    font-weight: 500;
+    line-height: 48px;
+    font-size: 32px;
+    padding: 0;
+}
+.containP2 {
+    max-width: 30rem;
+    margin-bottom: 3rem;
+    line-height: 30px;
+    font-size: 17px;
+    color: #505256;
+    padding: 0;
+}
+.kCon {
+    padding-bottom: 6rem;
+    border-bottom: 1px solid #F1F2F4;
+    box-sizing: border-box;
+}
+.kCol {
+    flex-wrap: wrap;
+    margin-right: calc(-16px/2);
+    margin-left: calc(-16px/2);
+    display: flex;
+    box-sizing: border-box;
+}
+.kCols {
+    max-width: 25%;
+    flex: 0 1 25%;
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-right: calc(16px/2);
+    padding-left: calc(16px/2);
+    box-sizing: border-box;
+}
+.kCons {
+    margin-bottom: 0;
+    box-sizing: border-box;
+}
+.kCard {
+    box-shadow: 0 0 1px 0 rgb(8 11 14 / 6%), 0 6px 6px -1px rgb(8 11 14 / 10%);
+    height: 100%;
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid #F7F8F9;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.kIcon {
+    flex: 1;
+    box-sizing: border-box;
+}
+.svgIc {
+    margin-top: 1rem;
+    height: 2rem;
+    width: auto;
+    margin-bottom: 2rem;
+}
+.kIconP {
+    line-height: 32px;
+    font-size: 22px;
+    margin-bottom: 1rem;
+    font-weight: 500;
+    padding: 0;
+}
+.kIconP2 {
+    line-height: 30px;
+    font-size: 17px;
+    color: #505256;
+    margin-bottom: 2rem;
+    padding: 0;
+}
+.kCard a {
+    margin: 0;
+    padding: 0;
+    color: #0284FE;
+    cursor: pointer;
+    text-decoration: none;
+}
+.aP {
+    font-weight: 500;
+    margin: 0;
+    color: #0284FE;
+    padding: 0;
+    font-size: 14px;
+    line-height: 24px;
+}
+.aP:hover {
+    color: #0077e6;
+}

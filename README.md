@@ -4,7 +4,7 @@
 <h1 align="center">MasterDexterLive </h1>
 <p align="center">
     <a href="https://github.com/Aabhashzzz1/MasterDexter.Live">
-        <img alt="MasterDexterLive" src="" />
+        <img alt="MasterDexterLive" src="https://github.com/Aabhashzzz1/MasterDexter.Live/blob/main/public/logo512.png" />
     </a>
 </p>
 

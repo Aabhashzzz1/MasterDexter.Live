@@ -2,9 +2,9 @@ import React from "react";
 import { SiFuturelearn } from "react-icons/si";
 import { CgProfile } from "react-icons/cg";
 import { TbMoodCrazyHappy } from "react-icons/tb";
-import { GiFireplace } from "react-icons/gi";
+// import { GiFireplace } from "react-icons/gi";
 import { IoMdPaperPlane } from "react-icons/io";
-import Placement from "./images/placement.png";
+// import Placement from "./images/placement.png";
 
 import "./Tile.css";
 export function Tile() {

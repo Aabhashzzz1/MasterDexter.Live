@@ -1,6 +1,6 @@
 import React from "react";
 import "./Functions.css";
-import RtImg from "./images/react.svg";
+// import RtImg from "./images/react.svg";
 import Atomic from "./images/atomic.svg";
 import ThemeSetup from "./images/theme.svg";
 import Components from "./images/components.svg";

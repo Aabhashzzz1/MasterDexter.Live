@@ -1,7 +1,7 @@
 import './App.css';
 import { Header } from './components/Header/Header';
 import { Main } from './components/Main/Main';
-import { Container } from './components/Container/Container';
+// import { Container } from './components/Container/Container';
 import { Tile } from './components/Tile/Tile';
 import { Features } from './components/Features/Features';
 import { Functions } from './components/Functions/Functions';

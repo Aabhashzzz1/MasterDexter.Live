@@ -215,17 +215,4 @@ Or you can create a  <a href="https://github.com/Aabhashzzz1/MasterDexter.Live/i
 
 <br>
 
-### Completed Module Changes
-
-1. Re-develop single big tile. ✅
-2. Remove React circle & centralize other content. ✅
-3. Change Logo, svg & png. ✅
-4. Additional changes done. ✅
-5. Imperfect hire developer & registration page 🔁
----
-
-### Next Module Changes
-
-1. Responsive.
-2. Developing Social Media grid card (badge).
-3. Developing Pricing, About & Hiring Page.
+[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=A5C4D4)](https://www.buymeacoffee.com/aamware)

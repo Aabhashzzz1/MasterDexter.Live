@@ -202,10 +202,10 @@ Or you can create a  <a href="https://github.com/Aabhashzzz1/MasterDexter.Live/i
 <br>
 <div style="display:flex">
 
-[!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=A5C4D4)](https://www.buymeacoffee.com/aamware)
+    [!["Buy Me A Coffee"](https://img.shields.io/badge/Buy_Me_A_Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=A5C4D4)](https://www.buymeacoffee.com/aamware)
 
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" /></a></p>
+    <p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" /></a></p>
 
 </div>
 
